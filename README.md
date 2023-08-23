@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**BTTdS/BTTdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é bresamiry taylla
 
-Here are some ideas to get you started:
+- Estou estudando no Alura (https://www.alura.com.br)
+- Estou me desenvolvendo na liguagem JavaScritp
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo :mailbox
+
+bressamiry.santos@escola.pr.gov.br
+
+@bressamiry.santos
+
+![image](https://github.com/BTTdS/BTTdS/assets/106817591/d7b64139-4007-4eb5-89b5-dd5298c1fc53)
